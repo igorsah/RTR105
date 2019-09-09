@@ -1,0 +1,32 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  whoami
+    4  pwd
+    5  ls
+    6  man
+    7  man who
+    8  uname -a
+    9  echo $0
+   10  sh
+   11  exit
+   12  cd .
+   13  pwd
+   14  ls
+   15  cd ..
+   16  pwd
+   17  cd ..
+   18  pwd
+   19  cd ..
+   20  pwd
+   21  cd .
+   22  pwd
+   23  cd home/user
+   24  men
+   25  clar
+   26  exit
+   27  man 
+   28  exit
+   29  cd /
+   30  cd
+   31  history
+   32  history > history_20190909.txt
