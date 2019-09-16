@@ -10,7 +10,7 @@ Priekšmeta Datormācība (pamatkurss) elelktroniskā klade
     6  man      dod informāciju par kādu komandu
     7  man who
     8  uname -a attēlo datora nosaukumu detalizēti
-    9  echo $0  parāda 
+    9  echo $0  parāda kursš interprtitators izmantots
     10  sh       pariet uz citu shell
     11  exit     iziet no termināla
     12  cd .     
