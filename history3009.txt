@@ -1,0 +1,60 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  nano
+    4  git clone https://github.com/igorsah/RTR105
+    5  ls
+    6  cd RTR105
+    7  la
+    8  cd .git
+    9  ls
+   10  cd ..
+   11  ls
+   12  nano
+   13  ls
+   14  nano piem1
+   15  namo piem1 
+   16  namo piem1
+   17  namo piem1.c
+   18  nano piem1
+   19  gcc piem1.c -o prg1
+   20  ./prg1
+   21  nano piem1.c
+   22  nano
+   23  gcc sizeof.c -o prg2
+   24  ./prg2
+   25  nano piem2.c
+   26  nano sizeof.c
+   27  gcc sizeof.c -o prg2
+   28  ./prg2
+   29  nano
+   30  gcc piem.c -o prg3
+   31  ls
+   32  gcc piem2.c -o prg3
+   33  nano piem2.c
+   34  gcc piem2.c -o prg3
+   35  ./prg3
+   36  mkdir darbi
+   37  cd darbi
+   38  nano
+   39  gcc 02.c -o prg1
+   40  gcc 01.c -o prg1
+   41  nano
+   42  nano 01.c
+   43  gcc 01.c -o prg1
+   44  nano 01.c
+   45  gcc 01.c -o prg1
+   46  cp 01.c 02.c
+   47  nano 02.c
+   48  gcc 02.c -o prg1
+   49  nano 02.c
+   50  gcc 02.c -o prg1
+   51  ./prg1
+   52  nano 02.c
+   53  gcc 02.c -o prg1
+   54  nano 02.c
+   55  gcc 02.c -o prg1
+   56  nano 02.c
+   57  gcc 02.c -o prg1
+   58  clear
+   59  hisotry > hisotry3009.txt
+   60  history > history3009.txt
