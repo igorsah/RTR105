@@ -1,0 +1,40 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls
+    5  git clone https://github.com/igorsah/RTR105
+    6  ls
+    7  cd RTR105/
+    8  ls
+    9  mkdir darbi
+   10  nano
+   11  nano 03.c
+   12  nano hello.c
+   13  nano
+   14  nano 02.c
+   15  nano 11.c
+   16  gcc -c 11.c prg1
+   17  gcc -c 11.c 
+   18  nano 11.c
+   19  gcc 11.c -c prg1
+   20  gcc 11.c -o prg1
+   21  nano 11.c
+   22  gcc 11.c -o prg1
+   23  nano 11.c
+   24  gcc 11.c -o prg1
+   25  nano 11.c
+   26  gcc 11.c -o prg1
+   27  ./prg1
+   28  nano 11.c
+   29  gcc 11.c -o prg1
+   30  nano 11.c
+   31  gcc 11.c -o prg1
+   32  ./prg1
+   33  nano
+   34  gcc 21.c -o prg1
+   35  nano 21.c
+   36  gcc 21.c -o prg1
+   37  nano 21.c
+   38  cp 21.c 22.c
+   39  history
+   40  history >> history_1007.txt
